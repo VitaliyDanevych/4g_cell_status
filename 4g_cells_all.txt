@@ -1,0 +1,100 @@
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L13
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L14
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L23
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L24
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L31
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L33
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0001,ManagedElement=RN_CH0001,ENodeBFunction=1,EUtranCellFDD=CH0001L34
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0002,ManagedElement=RN_CH0002,ENodeBFunction=1,EUtranCellFDD=CH0002L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0002,ManagedElement=RN_CH0002,ENodeBFunction=1,EUtranCellFDD=CH0002L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0002,ManagedElement=RN_CH0002,ENodeBFunction=1,EUtranCellFDD=CH0002L31
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0003,ManagedElement=RN_CH0003,ENodeBFunction=1,EUtranCellFDD=CH0003L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0003,ManagedElement=RN_CH0003,ENodeBFunction=1,EUtranCellFDD=CH0003L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0003,ManagedElement=RN_CH0003,ENodeBFunction=1,EUtranCellFDD=CH0003L31
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0004,ManagedElement=RN_CH0004,ENodeBFunction=1,EUtranCellFDD=CH0004L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0004,ManagedElement=RN_CH0004,ENodeBFunction=1,EUtranCellFDD=CH0004L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0004,ManagedElement=RN_CH0004,ENodeBFunction=1,EUtranCellFDD=CH0004L31
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L13
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L14
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L23
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L24
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L31
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L33
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0006,ManagedElement=RN_CH0006,ENodeBFunction=1,EUtranCellFDD=CH0006L34
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L11
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L13
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L14
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L21
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L23
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L24
+  [1] administrativeState (enum AdmState): 1
+  [2] operationalState (enum OperState ro): 1
+SubNetwork=ONRM_RootMo_R,SubNetwork=eNB_CH,MeContext=RN_CH0007,ManagedElement=RN_CH0007,ENodeBFunction=1,EUtranCellFDD=CH0007L31
